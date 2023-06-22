@@ -3,6 +3,8 @@ from MainWindow import MainWindow
 import sys
 
 # All you need is https://doc.qt.io/qtforpython-6/
+# https://doc.qt.io/qt-6/qlineedit.html#inputMask-prop
+
 if __name__ == '__main__':
     application = QApplication(sys.argv)
 
